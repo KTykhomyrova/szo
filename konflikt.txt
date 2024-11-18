@@ -1,2 +1,2 @@
 Pierwsza linia
-Linia z głównej gałezi
+Linia z głównej gałezi i gałęzi 1
